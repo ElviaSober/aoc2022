@@ -9,4 +9,3 @@
  */
 
 rootProject.name = "aocSkeleton"
-include("app")
