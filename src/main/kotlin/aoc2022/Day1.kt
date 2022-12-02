@@ -1,6 +1,6 @@
-package aocskeleton
+package aoc2022
 
-import aocskeleton.utils.toInts
+import aoc2022.utils.toInts
 
 class Day1 : Day {
     override val index = 1

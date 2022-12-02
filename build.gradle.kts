@@ -18,7 +18,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 
     // This dependency is used by the application.
-    implementation("com.google.guava:guava:31.0.1-jre")
+    implementation("com.google.guava:guava:31.1-jre")
 }
 
 testing {
@@ -35,7 +35,7 @@ testing {
 
 application {
     // Define the main class for the application.
-    mainClass.set("aocskeleton.AppKt")
+    mainClass.set("aoc2022.AppKt")
 }
 
 tasks.named<JavaExec>("run") {

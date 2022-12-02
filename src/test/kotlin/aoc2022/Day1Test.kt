@@ -1,4 +1,4 @@
-package aocskeleton
+package aoc2022
 
 import kotlin.test.Ignore
 import kotlin.test.Test

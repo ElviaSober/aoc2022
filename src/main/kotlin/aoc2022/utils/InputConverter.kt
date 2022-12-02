@@ -1,4 +1,4 @@
-package aocskeleton.utils
+package aoc2022.utils
 
 /**
  * Use on a row.

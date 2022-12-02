@@ -1,4 +1,4 @@
-package aocskeleton
+package aoc2022
 
 interface Day {
 
