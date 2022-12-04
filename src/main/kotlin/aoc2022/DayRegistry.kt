@@ -6,6 +6,7 @@ object DayRegistry {
     fun loadDays() = listOf(
             Day1(),
         Day2(),
-        Day3()
+        Day3(),
+        Day4()
     )
 }
