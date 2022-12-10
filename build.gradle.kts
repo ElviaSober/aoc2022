@@ -29,6 +29,8 @@ testing {
         }
         dependencies {
             implementation("com.willowtreeapps.assertk:assertk:0.25")
+            // https://mvnrepository.com/artifact/junit/junit
+            implementation("junit:junit:4.13.2")
         }
     }
 }
